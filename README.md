@@ -1,9 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=alexandervsilva&color=006bed)
 ## Sobre mim
 
+## Olá, meu nome é Alexander Silva!
+
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduado em Engenharia de Computação e Pós-Graduado em Engenharia de Software em .NET na ESTI - Instituto Infnet.
-- 💼 Trabalhando como Consultor TI .NET C# na MGN Informática.
+- 🎓 Graduado em Engenharia de Computação.
+- 🎓 Pós-Graduado em Engenharia de Software em .NET no Instituto Infnet.
+- 💼 Trabalhando como Consultor II .NET C# na MGN Informática. Atualmente, alocado na Losango.
 - 🌱 Aprendendo mais sobre Engenharia de Software.
 
 ## Minhas Skills
@@ -64,12 +67,38 @@
 ![elastic](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elastic)
 ![Aspecto](https://img.shields.io/badge/-Aspecto-333333?style=flat&logo=Aspecto)
 
-
-<br/>
-
-<a href="https://github.com/alexandervsilva" title="Perfil do Alexander">
+<!--<a href="https://github.com/alexandervsilva" title="Perfil do Alexander">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandervsilva&theme=dracula&show_icons=true" />
-</a>
+</a>-->
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=alexandervsilva&theme=dark&hide_border=false&include_all_commits=true&show_icons=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervsilva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervsilva&theme=dark&hide_border=false&show_icons=true"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Onde me encontrar
 
@@ -77,21 +106,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.asilva.rj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.asilva.rj@gmail.com)](mailto:dev.asilva.rj@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/alexandervsilva?label=follow&style=social)](https://github.com/alexandervsilva)
 
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[EXPRESS__BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
-[VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
-[NEST__BADGE]: https://img.shields.io/badge/nest-7026b9?style=for-the-badge&logo=nest
-[GRAPHQL__BADGE]: https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql
-[JAVA_BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[SPRING_BADGE]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
-[MONGO_BADGE]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[AWS_BADGE]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [DOTNET_BADGE]:https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [AZURE_BADGE]:https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
 [CSHARP_BADGE]:https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
 [SWAGGER_BADGE]:https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
 [SQLSERVER_BADGE]:https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[DATADOG_BADGE]:https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white
+[JAEGER_BADGE]:https://img.shields.io/badge/jaeger-%23632CA6.svg?style=for-the-badge&logo=jaeger&logoColor=white
+[GRAFANA_BADGE]:https://img.shields.io/badge/grafana-%23632CA6.svg?style=for-the-badge&logo=grafana&logoColor=white
+[PROMETHEUS_BADGE]:https://img.shields.io/badge/prometheus-%23632CA6.svg?style=for-the-badge&logo=prometheus&logoColor=white
+[DYNATRACE_BADGE]:https://img.shields.io/badge/dynatrace-%23632CA6.svg?style=for-the-badge&logo=dynatrace&logoColor=white
+[ZIPKIN_BADGE]:https://img.shields.io/badge/zipkin-%23632CA6.svg?style=for-the-badge&logo=zipkin&logoColor=white
+[LOKI_BADGE]:https://img.shields.io/badge/loki-%23632CA6.svg?style=for-the-badge&logo=loki&logoColor=white
 
 <h1 align="center" style="font-weight: bold;">OpenTelemetry 💻</h1>
 
@@ -100,16 +126,13 @@
 ![Azure][AZURE_BADGE]
 ![Swagger][SWAGGER_BADGE]
 ![MicrosoftSQLServer][SQLSERVER_BADGE]
-
-<!--![express][EXPRESS__BADGE]
-![nest][NEST__BADGE]
-![graphql][GRAPHQL__BADGE]
-![typescript][TYPESCRIPT__BADGE]
-![javascript][JAVASCRIPT__BADGE]
-![AWS][AWS_BADGE]
-![spring][SPRING_BADGE]
-![java][JAVA_BADGE]
-![mongo][MONGO_BADGE]-->
+![Grafana][GRAFANA_BADGE]
+![Prometheus][PROMETHEUS_BADGE]
+![Datadog][DATADOG_BADGE]
+![Dynatrace][DYNATRACE_BADGE]
+![Jaeger][JAEGER_BADGE]
+![Zipkin][ZIPKIN_BADGE]
+![Loki][LOKI_BADGE]
 
 ## Índice
 
