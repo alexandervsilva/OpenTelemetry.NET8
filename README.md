@@ -93,7 +93,7 @@
 [SWAGGER_BADGE]:https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
 [SQLSERVER_BADGE]:https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">OpenTelemetry 💻</h1>
 
 ![.Net][DOTNET_BADGE]
 ![C#][CSHARP_BADGE]
@@ -125,11 +125,61 @@
 
 ## Começo rápido
 
-**Documentação**
+# Instalando Ferramentas de Observabilidade ou Back-End
 
-- <a href="https://github.com/alexandervsilva/<meu-repositorio>/blob/master/docs/projeto_bloco_tecnologia_dotnet.pdf">Projeto</a>
+Neste guia, vamos instalar e configurar diversas ferramentas de observabilidade e back-end para monitoramento e rastreamento de aplicativos.
 
-- <a href="https://github.com/alexandervsilva/<meu-repositorio>/blob/master/docs/modelagem/diagramas.md">Modelagem</a>
+## 1. Instalando OpenTelemetry
+
+O **OpenTelemetry** é uma biblioteca para instrumentação de observabilidade que permite coletar dados de rastreamento, métricas e logs. Para instalar o OpenTelemetry, siga as instruções na documentação oficial.
+
+## 2. Instalação do Loki
+
+O **Loki** é uma ferramenta de agregação de logs desenvolvida pela Grafana Labs, projetada para ser escalável e eficiente.
+
+## 3. Instalação do Jaeger
+
+O **Jaeger** é uma ferramenta de rastreamento distribuído usada para monitorar e solucionar problemas de sistemas distribuídos. É uma das ferramentas mais populares para rastreamento de aplicativos.
+
+## 4. Instalação do Zipkin
+
+O **Zipkin** é uma solução de rastreamento distribuído que ajuda a solucionar problemas em sistemas distribuídos. Pode ser usado em conjunto com o OpenTelemetry.
+
+## 5. Instalação do Prometheus
+
+O **Prometheus** é uma ferramenta de monitoramento de métricas com um poderoso modelo de dados de séries temporais. Ele é amplamente utilizado para monitoramento e alertas.
+
+## 6. Instalação do Grafana
+
+O **Grafana** é uma plataforma de análise e visualização de dados. Ele pode ser integrado ao Prometheus para criar dashboards personalizados e visualizar métricas e logs.
+
+---
+
+# Instrumentação Automática de Aplicativos .NET 8
+
+A instrumentação automática permite coletar dados de métricas, logs e rastreamento sem alterações significativas no código-fonte do aplicativo.
+
+## 1. Registro
+
+O registro de eventos pode ser feito automaticamente utilizando bibliotecas de instrumentação, como o OpenTelemetry e ILogger do .NET.
+
+## 2. Métricas
+
+A coleta de métricas pode ser configurada automaticamente através do OpenTelemetry, integrando-se com ferramentas como Prometheus para monitorar métricas do aplicativo.
+
+## 3. Rastreamento
+
+A instrumentação automática de rastreamento é configurada para coletar dados de rastreamento distribuído de forma transparente, utilizando o OpenTelemetry com ferramentas como Jaeger ou Zipkin.
+
+---
+
+# Instrumentação Manual de Aplicativos .NET 8
+
+A instrumentação manual é útil quando você deseja um controle mais detalhado sobre os pontos em que as métricas ou rastreamentos são coletados.
+
+## 1. Métricas
+
+A instrumentação manual de métricas envolve o uso de classes específicas, como **MeterProvider**, para criar e exportar métricas de eventos específicos no código.
 
 ## Cenário atual
 
