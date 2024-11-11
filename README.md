@@ -2,12 +2,6 @@
 
 Consulte o meu perfil <a href="https://github.com/alexandervsilva/alexandervsilva/blob/master/README.md">aqui</a>.
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Alexander.Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alexander-silva-sfcᵀᴹ-mcp-3b6a55143)](www.linkedin.com/in/alexander-silva-sfcᵀᴹ-mcp-3b6a55143)
-[![Gmail Badge](https://img.shields.io/badge/-dev.asilva.rj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.asilva.rj@gmail.com)](mailto:dev.asilva.rj@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/alexandervsilva?label=follow&style=social)](https://github.com/alexandervsilva)
-
 [DOTNET_BADGE]:https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [AZURE_BADGE]:https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
 [CSHARP_BADGE]:https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
