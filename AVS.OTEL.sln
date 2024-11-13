@@ -15,13 +15,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E87718E7-2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVS.OTEL.Domain", "src\AVS.OTEL.Domain\AVS.OTEL.Domain.csproj", "{BBC0E2E4-9061-4826-ACBD-E16E82A8EFED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVS.OTEL.Core", "src\AVS.OTEL.Core\AVS.OTEL.Core.csproj", "{DCDCAC94-57D7-4B48-80FE-6279DB8F150B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVS.OTEL.Core", "src\AVS.OTEL.Core\AVS.OTEL.Core.csproj", "{DCDCAC94-57D7-4B48-80FE-6279DB8F150B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVS.OTEL.Infra.Data", "src\AVS.OTEL.Infra.Data\AVS.OTEL.Infra.Data.csproj", "{7ED75DEE-4B6D-4353-9DEE-2CAC2FBCEC22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVS.OTEL.Infra.Data", "src\AVS.OTEL.Infra.Data\AVS.OTEL.Infra.Data.csproj", "{7ED75DEE-4B6D-4353-9DEE-2CAC2FBCEC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVS.OTEL.Infra.CrossCutting", "src\AVS.OTEL.Infra.CrossCutting\AVS.OTEL.Infra.CrossCutting.csproj", "{1CDF6BB4-1891-448A-9D5D-F40268ECC919}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVS.OTEL.Infra.CrossCutting", "src\AVS.OTEL.Infra.CrossCutting\AVS.OTEL.Infra.CrossCutting.csproj", "{1CDF6BB4-1891-448A-9D5D-F40268ECC919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVS.OTEL.Services.API", "src\AVS.OTEL.Services.API\AVS.OTEL.Services.API.csproj", "{45B4E259-6C51-49E9-A947-F6B7FB4C17FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVS.OTEL.Services.API", "src\AVS.OTEL.Services.API\AVS.OTEL.Services.API.csproj", "{45B4E259-6C51-49E9-A947-F6B7FB4C17FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVS.OTEL.Services.Application", "src\AVS.OTEL.Services.Application\AVS.OTEL.Services.Application.csproj", "{2E236663-4493-4B05-A524-B65DF312B11A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CABD70F4-9E47-47D0-8DFA-405A5F988A92}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +56,10 @@ Global
 		{45B4E259-6C51-49E9-A947-F6B7FB4C17FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B4E259-6C51-49E9-A947-F6B7FB4C17FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B4E259-6C51-49E9-A947-F6B7FB4C17FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E236663-4493-4B05-A524-B65DF312B11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E236663-4493-4B05-A524-B65DF312B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E236663-4493-4B05-A524-B65DF312B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E236663-4493-4B05-A524-B65DF312B11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +71,7 @@ Global
 		{7ED75DEE-4B6D-4353-9DEE-2CAC2FBCEC22} = {7B9A00CA-7378-402F-A3AE-D427986D5462}
 		{1CDF6BB4-1891-448A-9D5D-F40268ECC919} = {7B9A00CA-7378-402F-A3AE-D427986D5462}
 		{45B4E259-6C51-49E9-A947-F6B7FB4C17FA} = {F8C6715E-9567-4FCB-97B4-41A7AA0A1498}
+		{2E236663-4493-4B05-A524-B65DF312B11A} = {F8C6715E-9567-4FCB-97B4-41A7AA0A1498}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0EBFA95-E7DE-403E-A7ED-D5943FCE515A}
